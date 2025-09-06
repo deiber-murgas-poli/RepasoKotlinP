@@ -129,5 +129,5 @@ fun main() {
         println(c)  //instruccion
     }while (c<100)  //condicion
 
-//
+*/
 }
