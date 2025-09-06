@@ -112,10 +112,22 @@ fun main() {
     }
 
 */
+/*
+
+//while
+    var z = 1
+    while (z<=100){ //condicion
+        println(z)  //instruccion
+        z+=1 //que incremente 1 en cada ciclo
+    }
 
 
+    //do while
+    var c = 0
+    do {
+        c += 1  //aumento o decremento
+        println(c)  //instruccion
+    }while (c<100)  //condicion
 
-
-
-
+//
 }
